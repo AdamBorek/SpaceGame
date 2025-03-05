@@ -1,0 +1,1 @@
+image_angle += spin * dt_sec * spin_speed;

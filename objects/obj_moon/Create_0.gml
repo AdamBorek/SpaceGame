@@ -1,0 +1,1 @@
+rocket_ref = instance_find(obj_rocket, 0);
